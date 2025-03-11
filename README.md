@@ -42,11 +42,11 @@ Medicinal_leaves_prediction/
 -   **Deployment_Code.ipynb**It contains the user interface code and libraries.
 
 ##   Features
-- **Upload an Audio File:** Users can upload `.jpg`,`.png`,`.jpeg` format files.
-- **Preprocessing:**The input image is cleaned and improved, important features are identified.
+- **Upload an Image File** Users can upload `.jpg`,`.png`,`.jpeg` format files.
+- **Preprocessing**The input image is cleaned and improved, important features are identified.
 - **Deep Learning Model** A deep learning model learns patterns from images and uses them to correctly identify and classify the given plant.
-- **Confidence Score:** The model provides a confidence score for classified prediction.
-- **Interactive UI:** Built using Streamlit for a user-friendly experience.
+- **Confidence Score** The model provides a confidence score for classified prediction.
+- **Interactive UI** Built using Streamlit for a user-friendly experience.
 
 ## Tech Stack 
 - **Python** 

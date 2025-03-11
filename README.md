@@ -37,23 +37,23 @@ Medicinal_leaves_prediction/
 
 
 # 3. File Description
-    -preprocessing.ipynb:This file uploads the dataset, organizes image files, applies data augmentation, and prepares the images for training a deep learning model.
-    -Model_Training.ipynb:The file loads and preprocesses the dataset, visualizes sample images, builds and trains an InceptionV3-based deep learning model for medicinal plant classification, and evaluates its accuracy.
-    -Evaluation_Code.ipynb:The code evaluates a pretrained InceptionV3 model on plant image classification by computing accuracy, loss, precision, recall, and F1-score, while also visualizing training performance with accuracy and loss plots.
-    -Deployment_Code.ipynb:It contains the user interface code and libraries.
+1.preprocessing.ipynb:This file uploads the dataset, organizes image files, applies data augmentation, and prepares the images for training a deep learning model.
+2.Model_Training.ipynb:The file loads and preprocesses the dataset, visualizes sample images, builds and trains an InceptionV3-based deep learning model for medicinal plant classification, and evaluates its accuracy.
+3.Evaluation_Code.ipynb:The code evaluates a pretrained InceptionV3 model on plant image classification by computing accuracy, loss, precision, recall, and F1-score, while also visualizing training performance with accuracy and loss plots.
+4.Deployment_Code.ipynb:It contains the user interface code and libraries.
 ...
 ## Features
-    -Upload an Image File: Users can upload .png,.jpg,.jpeg format files.
-    -Preprocessing:The input image is cleaned and improved, important features are identified.
-    -Deep Learning Model:A deep learning model learns patterns from images and uses them to correctly identify and classify the given plant.
-    -Confidence Score: The model provides a confidence score for classified  prediction.
-    -Interactive UI: Built using Streamlit for a user-friendly experience.
+1.Upload an Image File: Users can upload .png,.jpg,.jpeg format files.
+2.Preprocessing:The input image is cleaned and improved, important features are identified.
+3.Deep Learning Model:A deep learning model learns patterns from images and uses them to correctly identify and classify the given plant.
+4.Confidence Score: The model provides a confidence score for classified  prediction.
+5.Interactive UI: Built using Streamlit for a user-friendly experience.
 ...
 ## Tech Stack
-    -Python 
-    -TensorFlow for deep learning
-    -Streamlit for web UI
-    -Inceptionv3 as Model
-    -NumPy & Matplotlib for data processing & visualization
+1.Python 
+2.TensorFlow for deep learning
+3.Streamlit for web UI
+4.Inceptionv3 as Model
+5.NumPy & Matplotlib for data processing & visualization
 
 
